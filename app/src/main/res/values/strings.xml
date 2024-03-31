@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lista Desplazable De Artes</string>
+
+    <string name="title_art_one">Rapsodia de colores</string>
+    <string name="title_art_two">El lienzo del alma</string>
+    <string name="title_art_three">El jardín del artista</string>
+    <string name="title_art_four">Pinturas en el viento</string>
+    <string name="title_art_five">Sinfonía cromática</string>
+    <string name="title_art_six">La melodía de la luz</string>
+    <string name="title_art_seven">La poesía del color</string>
+    <string name="title_art_eight">El abrazo del pincel</string>
+    <string name="title_art_nine">Paisajes del corazón</string>
+</resources>
